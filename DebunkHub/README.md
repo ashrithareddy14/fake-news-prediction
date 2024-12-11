@@ -97,31 +97,7 @@ GlobalTruthHub comes with several distinctive features that set it apart from ot
 
 The project includes an interactive chatbot designed to assist students in understanding the application. If a student is confused, the chatbot provides guidance, enhancing the overall user experience.
 
-### Auto-Populating Feature
 
-![Auto-Populating Feature](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss9.jpg?raw=true)
-
-GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
-
-### Focus on Natural Language Processing (NLP)
-
-![NLP](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
-
-The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-      git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   cd GlobalTruthHub
-   pip install -r requirements.txt
    ```
 
 
@@ -147,16 +123,9 @@ Users can customize the project by modifying the Bard API key. In case users enc
 - **Database Integration:** Future plans include connecting the project to a database for data storage and retrieval.
 - **Power BI Integration:** Explore options for enhancing interactivity by integrating the project with Power BI.
 
-## Contact Information
 
-For any inquiries or support, please contact Saivishal Vempati at [vempatisaivishal@gmail.com](mailto:vempatisaivishal@gmail.com).
-
-## Credits
-
-- Generative AI
-- Google Bard
   
-Komatineni Sruthii
+
 
 
 ---
